@@ -16,4 +16,4 @@ Run the application, a visual interface will appear to log in to your instance.
 
 ![Example Login](img/login-example.jpeg)
 
-It is important to emphasize that the visibility of the report will be according to the visibility that the logged in user has.
+It is important to emphasize that the visibility of the report will be according to the visibility that the logged user has.
